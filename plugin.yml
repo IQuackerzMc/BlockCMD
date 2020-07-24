@@ -1,9 +1,9 @@
-name: SkyCMD
-main: CMD\Main
+name: WarpCommands
+main: WarpCommands\Main
 api: 3.0.0
 description: Teleport to places via command
 version: 1.5.2
-author: Ayzrix
+author: iQuackerzMC
 commands:
   pvp:
     description: Teleport to the pvp arena
