@@ -1,0 +1,13 @@
+name: SkyCMD
+main: CMD\Main
+api: 3.0.0
+description: Teleport to places via command
+version: 1.5.2
+author: Ayzrix
+commands:
+  pvp:
+    description: Teleport to the pvp arena
+  spawn:
+    description: Teleport to the server's spawn
+  crates:
+    description: Teleport to the crate key area
